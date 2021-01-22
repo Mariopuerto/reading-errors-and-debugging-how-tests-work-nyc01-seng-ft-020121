@@ -1,1 +1,1 @@
-first_number = "to_i"
+first_number = "first_number.to_i"
