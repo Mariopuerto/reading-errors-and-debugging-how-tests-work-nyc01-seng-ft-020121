@@ -1,1 +1,2 @@
-first_number = (1.Integer)
+puts first_number = 1
+
