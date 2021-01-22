@@ -1,1 +1,1 @@
-first_number = "1"
+first_number = "to_i"
