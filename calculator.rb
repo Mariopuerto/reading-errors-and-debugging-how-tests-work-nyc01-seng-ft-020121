@@ -1,1 +1,2 @@
-first_number = "Integer , Float"
+first_number = "#{1}
+
