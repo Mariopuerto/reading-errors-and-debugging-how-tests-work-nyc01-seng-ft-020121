@@ -1,1 +1,1 @@
-first_number.to_i
+first_number.to be_an(Integer).or be_a(Float)
